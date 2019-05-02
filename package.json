@@ -1,0 +1,28 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "contains common code for googale actions and alexa skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhunter/core.git"
+  },
+  "keywords": [
+    "google",
+    "alexa",
+    "core"
+  ],
+  "author": "Ray Hunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayhunter/core/issues"
+  },
+  "homepage": "https://github.com/rayhunter/core#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
